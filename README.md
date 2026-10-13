@@ -2,7 +2,9 @@
 
 Turn ordinary photos, such as cityscapes and street scenes, into paintings in the style of Vincent van Gogh's *The Starry Night*. This is a small, dependency-light Kotlin app that runs a pre-trained **fast neural style transfer** model with **ONNX Runtime**.
 
-![Before and after](docs/before1-after1.png)
+   | Before | After |
+   |---|---|
+   | ![Original photo](docs/before1.jpg) | ![Van Gogh style result](docs/after1.png) |
 
 
 ## How it works
